@@ -1,2 +1,2 @@
 # glassed
-c++ ui library based on opengl
+Just a fun project while we are learning c++
